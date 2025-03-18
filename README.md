@@ -15,6 +15,7 @@ This repository contains an Excel-based sales dashboard that provides insights i
 2. Pivot Tables & Charts 📈
 3. Data Cleaning & Analysis 🧹
 # 📷 Dashboard Preview
+![Coffee Sales Dashboard](https://github.com/Freedom-Analytics/Coffee-sales-Analysis/blob/main/coffee%20Image.jpg)
 
 
 📂 Dataset
